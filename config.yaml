@@ -1,0 +1,4 @@
+random_seed: 42
+paths:
+  data: data
+  results: results
