@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+torch
+ansys-mapdl-core
+pyvista
+matplotlib
+pytest
+PyYAML

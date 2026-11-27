@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local research data and generated results
+/data/*
+!/data/.gitkeep
+/results/*
+!/results/.gitkeep
